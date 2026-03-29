@@ -1,7 +1,7 @@
 # Hi there, I'm Juma Rubea 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Junior+Data+Analyst+%26+Scientist;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Junior+Data+Scientist;Data+Engineer+%26+Analyst;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
